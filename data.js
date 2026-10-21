@@ -143,10 +143,10 @@ export const RELAYS = [
     verifiedAt: "2026-09-04",
   },
   {
-    id: "dshapi",
-    name: "DSH API",
-    host: "api.dshapi.icu",
-    aff: "https://api.dshapi.icu/r/T8KiaeGU",
+    id: "97wl",
+    name: "97wl",
+    host: "api.97wl.cc",
+    aff: "https://api.97wl.cc/r/T8KiaeGU",
     rate: "0.08x 倍率（国模分组）",
     signup: "按量计费，注册不发赠额",
     invite:
