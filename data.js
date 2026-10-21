@@ -146,7 +146,7 @@ export const RELAYS = [
     id: "97wl",
     name: "97wl",
     host: "api.97wl.cc",
-    aff: "https://api.97wl.cc/r/T8KiaeGU",
+    aff: "https://api.97wl.cc/",
     rate: "0.08x 倍率（国模分组）",
     signup: "按量计费，注册不发赠额",
     invite:
